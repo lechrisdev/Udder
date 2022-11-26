@@ -30,8 +30,8 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2021-03-07 16.03.25" translatesAutoresizingMaskIntoConstraints="NO" id="gZ4-vz-5Tv">
-                                <rect key="frame" x="-59" y="477" width="532" height="419"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Рекламная съемка Светлана-002" translatesAutoresizingMaskIntoConstraints="NO" id="gZ4-vz-5Tv">
+                                <rect key="frame" x="-59" y="267" width="532" height="629"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -45,7 +45,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="2021-03-07 16.03.25" width="512" height="512"/>
+        <image name="Рекламная съемка Светлана-002" width="1600" height="2400"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
